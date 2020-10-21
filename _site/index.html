@@ -6,10 +6,10 @@
   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
   <meta name='viewport' content='width=device-width, initial-scale=1'>
 
-  <title>SHD</title>
+  <title>SHD-ENES</title>
   <meta name='description' content="">
-  <link rel='canonical' href="https://type-jekyll.aspirethemes.com//">
-  <link rel='alternate' type='application/rss+xml' title='SHD' href="https://type-jekyll.aspirethemes.com//feed.xml">
+  <link rel='canonical' href="http://localhost:4000/">
+  <link rel='alternate' type='application/rss+xml' title='SHD-ENES' href="http://localhost:4000/feed.xml">
 
   <style>
     
@@ -31,7 +31,7 @@
         <div class='o-grid'>
           <div class='o-grid__col o-grid__col--3-4-s'>
             <div class='c-logo u-text-left'>
-              <a class='c-logo__link' href='/'>SHD</a>
+              <a class='c-logo__link' href='/'>SHD-ENES</a>
             </div>
           </div>
 
@@ -111,19 +111,25 @@ padding: 0px 0;
 .hero-text {
   text-align: center;
   position: relative ;
-  width: 50%;
+  width: 60%;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: rgb(255, 255, 255);
 }
+.hero-text .title{
+    font-size: 5vh;
+  }
+  .hero-text .subtitle{
+    font-size: 2.5vh;
+  }
 </style>
 
 <div class='o-wrapper'>
   <div class="hero" id="element">
     <div class="hero-text">
-      <h1 style="background-color: #000000">Seminario de Humanidades Digitales</h1>
-      <p style="background-color: #000000" >ENES, Morelia. UNAM</p>
+      <h1 class="title" style="background-color: #000000">Seminario de Humanidades Digitales</h1>
+      <p class="subtitle" style="background-color: #000000" >ENES, Morelia. UNAM</p>
       <button class='c-btn c-btn--small' onclick="window.location.href='#learn-more';" >Eventos</button>
       <button class='c-btn c-btn--small'onclick="window.location.href='/about';" >Acerca</button>
       <button class='c-btn c-btn--small' onclick="window.location.href='/contact';">Contacto</button>
@@ -191,8 +197,8 @@ VANTA.TRUNK({
   mouseControls: true,
   touchControls: true,
   gyroControls: true,
-  minHeight: 200.00,
-  minWidth: 200.00,
+  maxHeight: 2000.00,
+  maxWidth: 2000.00,
   scale: 1.00,
   scaleMobile: 1.00,
   backgroundColor: 0xffffff
