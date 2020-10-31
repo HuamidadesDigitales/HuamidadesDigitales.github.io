@@ -9,7 +9,7 @@
 title:       SHD-ENES
 email:       ''
 description: ''
-baseurl:     'Seminario' # The subpath of your site, e.g. /blog
+baseurl:     '' # The subpath of your site, e.g. /blog
 url:         '' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
