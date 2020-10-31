@@ -9,8 +9,8 @@
 title:       SHD-ENES
 email:       ''
 description: ''
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         '' # The base hostname & protocol for your site
+baseurl:     '/seminario' # The subpath of your site, e.g. /blog
+url:         'https://humanidadesdigitales.github.io' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
 instagram:   ''
