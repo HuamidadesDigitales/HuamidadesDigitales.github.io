@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elementos Repetitivos en Oraciones Mágicas"
+title: "Herramientas de lingüística computacional para dar un paseo histórico en la colección de la Hemeroteca Nacional"
 tags: [frontpage, jekyll, blog]
 image: '/images/posts/seminario3.jpg'
 ---
