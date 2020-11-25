@@ -3,10 +3,10 @@
   <channel>
     <title>SHD-ENES</title>
     <description></description>
-    <link>http://localhost:4000/Seminario/</link>
-    <atom:link href="http://localhost:4000/Seminario/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Nov 2020 01:03:10 -0600</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2020 01:03:10 -0600</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Nov 2020 12:55:53 -0600</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2020 12:55:53 -0600</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
@@ -41,9 +41,45 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
+        <pubDate>Wed, 18 Nov 2020 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2020/11/18/seminario4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/18/seminario4/</guid>
+      </item>
+    
+      <item>
+        <title>Herramientas de lingüística computacional para dar un paseo histórico en la colección de la Hemeroteca Nacional</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
+
+&lt;p&gt;Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.&lt;/p&gt;
+
+&lt;h5 id=&quot;todo&quot;&gt;Todo&lt;/h5&gt;
+
+&lt;p&gt;Duis id ante elit. Aliquam quis tellus id orci eleifend finibus. Donec consequat justo ligula, eget sodales purus hendrerit at.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.&lt;/li&gt;
+  &lt;li&gt;Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in, pellentesque vel urna.
+ Donec nibh massa, rutrum a sollicitudin eu,
+lacinia in lorem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;graphic-design&quot;&gt;Graphic design&lt;/h5&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vim te case nihil oblique, has partem interpretaris ne, ad admodum accusamus nam. Usu utinam dissentias referrentur ne, vim accusam voluptua pertinacia no. Est no posse utinam inermis, brute errem mentitum et ius, te prompta albucius quo. In pro simul soleat regione.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://static.pexels.com/photos/6454/nature-flowers-summer-branches-large.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ne reque offendit singulis mea, ad eos ferri doming nostrud. Duis suscipit usu ut, fuisset pericula ex est, et porro prompta his. Audire definiebas voluptatibus et duo, aperiam ocurreret ad nec. Vel ad nostrud principes. Ad liber congue iracundia sed, eirmod erroribus eam te, has veniam epicurei ea.&lt;/p&gt;
+
+&lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
+</description>
         <pubDate>Wed, 04 Nov 2020 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Seminario/2020/11/04/seminario3/</link>
-        <guid isPermaLink="true">http://localhost:4000/Seminario/2020/11/04/seminario3/</guid>
+        <link>http://localhost:4000/2020/11/04/seminario3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/04/seminario3/</guid>
       </item>
     
       <item>
@@ -78,8 +114,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Oct 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/Seminario/2020/10/21/seminario2/</link>
-        <guid isPermaLink="true">http://localhost:4000/Seminario/2020/10/21/seminario2/</guid>
+        <link>http://localhost:4000/2020/10/21/seminario2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/21/seminario2/</guid>
       </item>
     
       <item>
@@ -114,8 +150,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Oct 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/Seminario/2020/10/07/seminario1/</link>
-        <guid isPermaLink="true">http://localhost:4000/Seminario/2020/10/07/seminario1/</guid>
+        <link>http://localhost:4000/2020/10/07/seminario1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/07/seminario1/</guid>
       </item>
     
 
@@ -134,7 +170,7 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
 </description>
-            <link>http://localhost:4000/Seminario/about.html</link>
+            <link>http://localhost:4000/about.html</link>
           </item>
         
       
@@ -248,7 +284,7 @@ Cras sed sodales enim. Duis nec erat magna. Sed scelerisque pretium mi et [unspl
 &lt;button class='c-btn c-btn--full'&gt;Button&lt;/button&gt;
 {% endhighlight %}
 </description>
-            <link>http://localhost:4000/Seminario/style-guide.html</link>
+            <link>http://localhost:4000/style-guide.html</link>
           </item>
         
       
